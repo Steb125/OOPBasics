@@ -1,0 +1,13 @@
+C:\Users\Sean\Desktop\CodeAssignments\C#\OOPBasics\obj\Debug\netcoreapp3.1\OOPBasics.csprojAssemblyReference.cache
+C:\Users\Sean\Desktop\CodeAssignments\C#\OOPBasics\obj\Debug\netcoreapp3.1\OOPBasics.AssemblyInfoInputs.cache
+C:\Users\Sean\Desktop\CodeAssignments\C#\OOPBasics\obj\Debug\netcoreapp3.1\OOPBasics.AssemblyInfo.cs
+C:\Users\Sean\Desktop\CodeAssignments\C#\OOPBasics\obj\Debug\netcoreapp3.1\OOPBasics.csproj.CoreCompileInputs.cache
+C:\Users\Sean\Desktop\CodeAssignments\C#\OOPBasics\bin\Debug\netcoreapp3.1\OOPBasics.exe
+C:\Users\Sean\Desktop\CodeAssignments\C#\OOPBasics\bin\Debug\netcoreapp3.1\OOPBasics.deps.json
+C:\Users\Sean\Desktop\CodeAssignments\C#\OOPBasics\bin\Debug\netcoreapp3.1\OOPBasics.runtimeconfig.json
+C:\Users\Sean\Desktop\CodeAssignments\C#\OOPBasics\bin\Debug\netcoreapp3.1\OOPBasics.runtimeconfig.dev.json
+C:\Users\Sean\Desktop\CodeAssignments\C#\OOPBasics\bin\Debug\netcoreapp3.1\OOPBasics.dll
+C:\Users\Sean\Desktop\CodeAssignments\C#\OOPBasics\bin\Debug\netcoreapp3.1\OOPBasics.pdb
+C:\Users\Sean\Desktop\CodeAssignments\C#\OOPBasics\obj\Debug\netcoreapp3.1\OOPBasics.dll
+C:\Users\Sean\Desktop\CodeAssignments\C#\OOPBasics\obj\Debug\netcoreapp3.1\OOPBasics.pdb
+C:\Users\Sean\Desktop\CodeAssignments\C#\OOPBasics\obj\Debug\netcoreapp3.1\OOPBasics.genruntimeconfig.cache
